@@ -1,0 +1,17 @@
+url: http://timlamb.github.io
+baseurl: /timlamb
+
+# Site settings
+title: Portfolio English Programme
+email: tim@timjlamb.com
+description: "PEP - Portfolio English Programme"
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
