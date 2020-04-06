@@ -320,7 +320,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 2rem;
+        margin-bottom: 4em;
         font-family: "Droid Serif",Helvetica,Arial,cursive;
         font-size: 40px;
         font-style: italic;
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 1rem;
+        margin-bottom: 1em;
         text-transform: uppercase;
         font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
