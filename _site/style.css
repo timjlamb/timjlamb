@@ -62,7 +62,7 @@ h5,
 h6 {
     text-transform: capitalize;
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 h3 {
@@ -309,7 +309,6 @@ header .intro-text .intro-heading {
     text-transform: capitalize;
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
-    font-weight: 700;
     line-height: 50px;
 }
 
@@ -332,7 +331,6 @@ header .intro-text .intro-heading {
         text-transform: capitalize;
         font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
-        font-weight: 700;
         line-height: 75px;
     }
 }
@@ -705,14 +703,12 @@ section#book .form-control:focus {
 section#book::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
     color: #bbb;
 }
 
 section#book:-moz-placeholder {
     text-transform: uppercase;
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
     color: #bbb;
 }
 
@@ -726,7 +722,6 @@ section#book::-moz-placeholder {
 section#book:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
     color: #bbb;
 }
 
