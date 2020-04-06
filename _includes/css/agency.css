@@ -298,7 +298,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
