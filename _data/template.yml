@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Khula, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: 'Khula,"Droid Serif",Helvetica,Arial,cursive'
+  primary: '"Khula", "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif",Helvetica,Arial,cursive'
