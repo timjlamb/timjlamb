@@ -4,6 +4,7 @@ color:
   secondary: 4ECDC4   
   secondary-dark: 1A535C
   muted: 4ECDC4
+  white: F7FFF7
 
 # Font Families
 font:
