@@ -188,7 +188,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Anton","Droid Serif",Helvetica,Arial,cursive;
+    font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #FF6B6B;
 }
 
@@ -243,7 +243,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #;
-    background-color: #4ECDC4;
+    background-color: #;
 }
 
 @media(min-width:768px) {
