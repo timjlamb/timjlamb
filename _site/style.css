@@ -66,7 +66,7 @@ h6 {
 }
 
 h3 {
-    color: #e70c54;
+    color: FF6B6B;
 }
 
 .img-centered {
@@ -74,11 +74,11 @@ h3 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #;
 }
 
 .bg-darkest-gray {
-    background-color: #fff;
+    background-color: #1A535C;
 }
 
 .btn-primary {
@@ -96,7 +96,7 @@ h3 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     /*border-color: #FF6B6B;*/
-    color: #fff;
+    color: #;
     background-color: #4ECDC4;
 }
 
@@ -138,7 +138,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: "Fredoka One", "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #;
     background-color: #FF6B6B;
 }
 
@@ -148,7 +148,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     /*border-color: #FF6B6B;*/
-    color: #fff;
+    color: #;
     background-color: #4ECDC4;
 }
 
@@ -179,12 +179,12 @@ fieldset[disabled] .btn-xl.active {
 
 .btn-xl .badge {
     color: #FF6B6B;
-    background-color: #fff;
+    background-color: #;
 }
 
 .navbar-default {
     /*border-color: transparent;*/
-    background-color: #fff;
+    background-color: #;
 }
 
 .navbar-default .navbar-brand {
@@ -200,7 +200,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #fff;
+    border-color: #;
 }
 
 .navbar-default .navbar-toggle {
@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -236,13 +236,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #;
     background-color: #FF6B6B;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #;
     background-color: #4ECDC4;
 }
 
@@ -250,7 +250,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #fff;
+        background-color: #;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -280,7 +280,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #2f2f2f;
+    color: #;
     background-attachment: scroll;
     background-image: url('/timlamb/img/header-bg.jpg');
     background-position: left center;

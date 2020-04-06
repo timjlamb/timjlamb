@@ -58,7 +58,7 @@ h6 {
 }
 
 h3 {
-    color: #e70c54;
+    color: {{ site.data.template.color.primary }};
 }
 
 .img-centered {
@@ -66,11 +66,11 @@ h3 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .bg-darkest-gray {
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .btn-primary {
@@ -88,7 +88,7 @@ h3 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     /*border-color: #{{ site.data.template.color.primary }};*/
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -130,7 +130,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     /*border-color: #{{ site.data.template.color.primary }};*/
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -171,12 +171,12 @@ fieldset[disabled] .btn-xl.active {
 
 .btn-xl .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default {
     /*border-color: transparent;*/
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default .navbar-brand {
@@ -192,7 +192,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #fff;
+    border-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default .navbar-toggle {
@@ -201,7 +201,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -228,13 +228,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -242,7 +242,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #fff;
+        background-color: #{{ site.data.template.color.white }};
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -272,7 +272,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #2f2f2f;
+    color: #{{ site.data.template.color.white }};
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: left center;
