@@ -246,7 +246,18 @@ fieldset[disabled] .btn-xl.active {
     background-color: #F7FFF7;
 }
 
+.flexmenu {
+        display: block;
+    }
+
+
 @media(min-width:768px) {
+
+    .flexmenu {
+    display: flex; 
+    align-items: center;
+}
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -356,7 +367,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 }
 
