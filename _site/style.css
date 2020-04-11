@@ -294,7 +294,7 @@ header {
     color: #F7FFF7;
     background-attachment: scroll;
     background-image: url('img/english-with-mr-tim.jpg');
-    background-position: left center;
+    background-position: center top;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -305,6 +305,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    height:80vh;
 }
 
 header .intro-text .intro-lead-in {
