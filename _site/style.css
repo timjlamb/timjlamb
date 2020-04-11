@@ -708,6 +708,7 @@ section#book .form-group textarea.form-control {
 
 section#book .form-control:focus {
     border-color: #FF6B6B;
+    color: #FF6B6B;
     box-shadow: none;
 }
 

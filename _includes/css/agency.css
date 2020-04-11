@@ -700,6 +700,7 @@ section#book .form-group textarea.form-control {
 
 section#book .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
