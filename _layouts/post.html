@@ -1,0 +1,14 @@
+<section id="blog" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="portfolio-caption">
+                <h2>{{ post.title }}</h2>
+                <p class="text-muted">{{ post.subtitle }}</p>
+                <p>{{ post.content }}</p>
+                {% if post.thumbnail %}
+                <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
