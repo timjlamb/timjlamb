@@ -1,14 +1,25 @@
-<section id="blog" class="bg-light-gray">
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+<body id="page-top" class="index">
+
+    {% include header.html %}
+
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-top: 10em;">
             <div class="portfolio-caption">
-                <h2>{{ post.title }}</h2>
-                <p class="text-muted">{{ post.subtitle }}</p>
-                <p>{{ post.content }}</p>
-                {% if post.thumbnail %}
-                <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                <h2>{{ page.title }}</h2>
+                <p class="text-muted">{{ page.subtitle }}</p>
+                <p class="text-muted">{{ page.date | date: "%-d %B %Y" }}</p>
+                <p>{{ page.content }}</p>
+                {% if page.thumbnail %}
+                <img src="img/portfolio/{{ page.thumbnail }}" class="img-responsive img-centered" alt="">
                 {% endif %}
             </div>
         </div>
     </div>
-</section>
+</body>
+</html>

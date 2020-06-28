@@ -2,11 +2,12 @@
 title: Cooking up a storm?
 subtitle:
 layout: post
-modal-id: 1
-date: 2019-11-09
+date: 2020-05-03
+excerpt_separator: <!--more-->
 ---
 
 Here at home in England, I have been eating and cooking more! Perhaps you have, too ? Some call the reason quarantine, some call it lockdown. What ever you call it in your language, some find this time at home great, others find it very hard. Not everybody has more free time; in fact some are busier than ever before. I mean doctors and nurses, of course.
+<!--more-->
 Even so we know that most of us the rest of us are eating and therefore cooking more.
 
 Did you know, that in English we use cooking words a lot as metaphors? For example:

@@ -14,4 +14,17 @@ address:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

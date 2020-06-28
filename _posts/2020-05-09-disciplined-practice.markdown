@@ -2,11 +2,13 @@
 title: Disciplined Practice
 subtitle:
 layout: post
-modal-id: 1
-date: 2019-11-09
+date: 2020-05-09
+excerpt_separator: <!--more-->
 ---
 
-Learning and improving a new language like English can be a challenge, but with regular study, it can be done! Classes are important but so is disciplined practice. It can even be fun! In fact it should be. Here are eight tips from Kenneth Beare of ThoughtCo which are worth reading:
+Learning and improving a new language like English can be a challenge, but with regular study, it can be done! Classes are important but so is disciplined practice. It can even be fun! In fact it should be. 
+<!--more-->
+Here are eight tips from Kenneth Beare of ThoughtCo which are worth reading:
 
 ### Study Every Day
 Learning a new language is a time-consuming process; more than 300 hours, by some estimates. Rather than try and cram a few hours of review once or twice a week, most experts say short, regular study sessions are more effective. 30 minutes a day or more can help you improve your English skills over time.
