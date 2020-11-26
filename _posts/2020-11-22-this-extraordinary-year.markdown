@@ -3,7 +3,9 @@ title: This extraordinary year?!
 layout: post	
 date: 2020-11-22
 ---
-2020 – How will we all look back on this extraordinary year?!So far,  (and yes, I know there’s still a while to go) the events of 2020 have been mind-boggling. They include Australian bushfires  with burning forests and animals, Prince Harry “leaving” Royal Duties in the UK, the coronavirus pandemic wave #1, the impeachment of President Trump, disgrace for a Hollywood film mogul, the BLM movement coming to the foreground, murder hornets arriving in the USA from Asia, a massive explosion of ammonium nitrate in Beirut Port killing 190+ people, California wildfires, the death of Eddie van Halen rock icon, the unor3cedeted uproar of the US election, the second wave and apparently coming 3rd wave of covid19, vaccines, tiers, lockdowns . . . 
+2020 – How will we all look back on this extraordinary year?!
+
+So far,  (and yes, I know there’s still a while to go) the events of 2020 have been mind-boggling. They include Australian bushfires  with burning forests and animals, Prince Harry “leaving” Royal Duties in the UK, the coronavirus pandemic wave #1, the impeachment of President Trump, disgrace for a Hollywood film mogul, the BLM movement coming to the foreground, murder hornets arriving in the USA from Asia, a massive explosion of ammonium nitrate in Beirut Port killing 190+ people, California wildfires, the death of Eddie van Halen rock icon, the unprecedented uproar of the US election, the second wave and apparently coming 3rd wave of covid19, vaccines, tiers, lockdowns . . . 
 
 <!--more-->
 
